@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAQMXTest", "DAQMXTest\DAQMXTest.csproj", "{B0E4D569-BDE0-494C-9281-8558611D9410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E4D569-BDE0-494C-9281-8558611D9410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E4D569-BDE0-494C-9281-8558611D9410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E4D569-BDE0-494C-9281-8558611D9410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E4D569-BDE0-494C-9281-8558611D9410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26BCC095-2807-4432-A456-D3AA4A7CEAAF}
+	EndGlobalSection
+EndGlobal
