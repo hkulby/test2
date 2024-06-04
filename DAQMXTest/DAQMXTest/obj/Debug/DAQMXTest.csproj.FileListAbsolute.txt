@@ -1,0 +1,29 @@
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.csproj.AssemblyReference.cache
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.Form1.resources
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.Properties.Resources.resources
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.csproj.GenerateResource.cache
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.csproj.CoreCompileInputs.cache
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\bin\Debug\DAQMXTest.exe.config
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\bin\Debug\DAQMXTest.exe
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\bin\Debug\DAQMXTest.pdb
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\bin\Debug\NationalInstruments.Common.dll
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\bin\Debug\NationalInstruments.Common.xml
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.csproj.CopyComplete
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.exe
+C:\Users\lukes\Documents\Visual Studio 2019\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.pdb
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\bin\Debug\DAQMXTest.exe.config
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\bin\Debug\DAQMXTest.exe
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\bin\Debug\DAQMXTest.pdb
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\bin\Debug\NationalInstruments.Common.dll
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\bin\Debug\NationalInstruments.Common.xml
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.csproj.AssemblyReference.cache
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.Form1.resources
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.Properties.Resources.resources
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.csproj.GenerateResource.cache
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.csproj.CoreCompileInputs.cache
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.csproj.Up2Date
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.exe
+C:\Users\jasonjason\OneDrive - The University of Hong Kong - Connect\桌面\DAQMXTest\DAQMXTest\obj\Debug\DAQMXTest.pdb
